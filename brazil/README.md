@@ -28,13 +28,3 @@ things that aren't labeled contain content for the website.
 ├── index.html
 └── leve_nos.md
 ```
-
-## To run locally
-
-1. $ gem install jekyll 
-2. Clone http://github.com/pyladies/pyladies to your machine. 
-3. Change into the directory brazil (cd brazil)
-4. $ jekyll serve
-# => Now browse to http://localhost:4000
-
-You can use tinypress.co to edit and to create posts.
