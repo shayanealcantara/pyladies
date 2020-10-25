@@ -28,7 +28,6 @@ things that aren't labeled contain content for the website.
 ├── index.html
 └── leve_nos.md
 ```
-
 ## To run locally
 
 1. $ gem install jekyll 
